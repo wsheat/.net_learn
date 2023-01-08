@@ -1,0 +1,4 @@
+C:\Users\PC9\source\repos\Mytodo\Mytodo\obj\Debug\net6.0-windows\Mytodo.csproj.AssemblyReference.cache
+C:\Users\PC9\source\repos\Mytodo\Mytodo\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\PC9\source\repos\Mytodo\Mytodo\obj\Debug\net6.0-windows\Mytodo_MarkupCompile.cache
+C:\Users\PC9\source\repos\Mytodo\Mytodo\obj\Debug\net6.0-windows\Mytodo_MarkupCompile.lref
